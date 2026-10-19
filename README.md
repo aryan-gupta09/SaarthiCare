@@ -1,7 +1,7 @@
 
 # SaarthiCare
 ### Care without surveillance. Assistance without taking away autonomy.
-
+![Project Screenshot](screenshot/ss-0101.png)
 ## Overview
 SaarthiCare is an AI-assisted elderly healthcare and family care
 coordination MVP designed to help older adults manage daily care
@@ -35,7 +35,8 @@ Update every status above to match the actual app.
 - AI / voice services: [actual services, if used]
 
 ## Screenshots
-Add screenshots of the current working MVP here.
+![Project Screenshot](screenshot/ss-02.png)
+
 
 
 ## Known Limitations
