@@ -40,9 +40,11 @@ Update every status above to match the actual app.
 
 
 ## Known Limitations
-The voice assistant has some bugs and requires further testing.
-Other limitations: [list only genuine limitations].
+- The voice assistant has some bugs and requires further testing.  
+- Voice Recognition may miss words or fail on some devices.  
+- Demo data only. Some features are simplified for the demo.
 
+ 
 ## Future Improvements
 - Improve voice interaction reliability
 - Expand regional-language support
@@ -55,8 +57,15 @@ diagnostic tool. It does not replace professional medical advice.
 Only describe privacy features that are actually implemented.
 
 ## Project Status
-Hackathon MVP / Prototype
-
+Hackathon MVP / Prototype  
+[SaarthiCare v1.0.0 (MVP)](https://github.com/aryan-gupta09/SaarthiCare/releases/download/v1.0.0/SaarthiCare.v1.0.0.MVP.apk)
 ## Team
-Aryan Gupta
+Aryan Gupta &
 Awanish Kumar Jaiswal
+
+<!-- readme: contributors -start -->
+<table>
+<tr><td align="center"><a href="https://github.com/aryan-gupta09"><img src="https://avatars.githubusercontent.com/u/84508006?v=4" width="60" height="60" /></a></td>
+<td align="center"><a href="https://github.com/awanish9045"><img src="https://avatars.githubusercontent.com/u/98873257?v=4" width="60" height="60" /></a></td>
+</table>
+<!-- readme: contributors -end -->
