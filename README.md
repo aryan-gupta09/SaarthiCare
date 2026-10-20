@@ -29,10 +29,10 @@ dashboard.
 Update every status above to match the actual app.
 
 ## Technology Stack
-- Frontend: [actual technology]
-- Backend: [actual technology, if present]
-- Database: [actual database, if present]
-- AI / voice services: [actual services, if used]
+- Frontend: Kotlin, React18
+- Backend: Java 17  
+- Database: Local Datatbase 
+- AI / voice services: Google Cloud Neural Text to Speech Stream API
 
 ## Screenshots
 ![Project Screenshot](screenshot/ss-02.png)
